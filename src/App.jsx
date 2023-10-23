@@ -15,7 +15,7 @@ function App() {
 
       <div className="card">
         <h2>Load component from Core Library</h2>
-        <Button />
+        <Button>Send</Button>
       </div>
 
       <div className="card">
